@@ -21,6 +21,7 @@ module.exports = {
   },
   rules: {
     "no-trailing-spaces": "error",
-    "no-multi-spaces": "error"
+    "no-multi-spaces": "error",
+    "@typescript-eslint/no-explicit-any": "off"
   }
 }
