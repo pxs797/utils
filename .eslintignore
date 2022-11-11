@@ -1,2 +1,5 @@
 # eslint config
 .eslintrc.js
+
+# bundle file
+lib
